@@ -1,0 +1,36 @@
+#m2{
+    text-align:center ;
+    background-color: #7c9090;
+    border:2px dashed red; 
+    /* border:2px solid red; */
+}
+
+nav ul{
+    display: flex;
+    background-color: rgb(25, 90, 98);
+}
+
+nav ul li{
+    padding:20px;
+    list-style: none;
+    color:white;
+    cursor: pointer;
+    
+}
+
+img{
+    padding-left: 200px;
+    
+    
+}
+
+#ment{
+    border: 1rem solid;
+}
+
+img{
+    max-width: 90px;
+    position: relative;
+    bottom: 80px;
+    right: 90px;
+}
